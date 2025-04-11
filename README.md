@@ -1,2 +1,2 @@
-# TLA-
+# TLA+
 TLA+ Examples and Sandbox
